@@ -6,18 +6,18 @@ This page on Github is created to give all Duolingo users a chance to install Du
 
 Current links to userstyles and extensions for different browsers are:
 
-### Chrome: (options are supported!)
-Style: https://userstyles.org/styles/167820/duolingo-difficulty-improver
+### Chrome: (options are supported!)<br>
+Style: https://userstyles.org/styles/167820/duolingo-difficulty-improver<br>
 Extension: https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe
 
-### Safari, Opera, Firefox: (options are supported!)
-Style: https://freestyler.ws/style/156241/duolingo-difficulty-improver
-Safari Extension: https://safari-extensions.apple.com/details/?id=ws.freestyler.freestyler-SRV36C8E2C
-Opera Extension: https://addons.opera.com/nb/extensions/details/freestyler/
-Firefox Extension: https://freestyler.ws/extensions/2.3.4.3/freestyler-2.3.4.3-fx.xpi
+### Safari, Opera, Firefox: (options are supported!)<br>
+Style: https://freestyler.ws/style/156241/duolingo-difficulty-improver<br>
+Safari Extension: https://safari-extensions.apple.com/details/?id=ws.freestyler.freestyler-SRV36C8E2C<br>
+Opera Extension: https://addons.opera.com/nb/extensions/details/freestyler/<br>
+Firefox Extension: https://freestyler.ws/extensions/2.3.4.3/freestyler-2.3.4.3-fx.xpi<br>
 
-### Manual:
-Style: https://github.com/vplameniraket/Duolingo-Difficulty-Improver
+### Manual:<br>
+Style: https://github.com/vplameniraket/Duolingo-Difficulty-Improver<br>
 (options are not supported)
 
 ## Project description
