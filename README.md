@@ -4,6 +4,22 @@
 
 This page on Github is created to give all Duolingo users a chance to install Duolingo Difficulty Improver manually. It concerns users who use browsers which do not support installation of userstyles via userstyles.org and thus <b>do not support options</b>.
 
+Current links to userstyles and extensions for different browsers are:
+
+### Chrome: (options are supported!)
+Style: https://userstyles.org/styles/167820/duolingo-difficulty-improver
+Extension: https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe
+
+### Safari, Opera, Firefox: (options are supported!)
+Style: https://freestyler.ws/style/156241/duolingo-difficulty-improver
+Safari Extension: https://safari-extensions.apple.com/details/?id=ws.freestyler.freestyler-SRV36C8E2C
+Opera Extension: https://addons.opera.com/nb/extensions/details/freestyler/
+Firefox Extension: https://freestyler.ws/extensions/2.3.4.3/freestyler-2.3.4.3-fx.xpi
+
+### Manual:
+Style: https://github.com/vplameniraket/Duolingo-Difficulty-Improver
+(options are not supported)
+
 ## Project description
 
 Meet Duolingo Difficulty Improver — a must-have for those who strive to get the most from their studying process! <b>It hides the sentence in your target language so that you would concentrate on your auditory comprehension of the language. You can also hover the sentence, and it will become revealed so that you could both read it out loud and study visually. Thus, both verbal, visual and audial ways of studying languages are put to use.</b> Great, right?
