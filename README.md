@@ -17,8 +17,9 @@ Opera Extension: https://addons.opera.com/nb/extensions/details/freestyler/<br>
 Firefox Extension: https://freestyler.ws/extensions/2.3.4.3/freestyler-2.3.4.3-fx.xpi<br>
 
 ### Manual:<br>
-Style: https://github.com/vplameniraket/Duolingo-Difficulty-Improver<br>
 (options are not supported)
+Style: https://github.com/vplameniraket/Duolingo-Difficulty-Improver<br>
+Consider finding a suitable extension on your browser's addons webpage.
 
 ## Project description
 
