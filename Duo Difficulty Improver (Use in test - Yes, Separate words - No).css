@@ -59,6 +59,13 @@ button + .oR3Zt[data-test="hint-sentence"] {
 	position: relative;
 	background: none;
 }
+.MUGWy.XV0Fl {
+	position: relative;
+	z-index: 999;
+	background-color: #fff;
+	-webkit-box-shadow: 0px 0px 0px 4px #fff;
+	        box-shadow: 0px 0px 0px 4px #fff;
+}
 
 
 
