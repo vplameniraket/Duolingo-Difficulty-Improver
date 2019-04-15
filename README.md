@@ -12,14 +12,14 @@ Extension: https://chrome.google.com/webstore/detail/stylish-custom-themes-for/f
 
 ### Safari, Opera, Firefox: (options are supported!)<br>
 Style: https://freestyler.ws/style/156241/duolingo-difficulty-improver<br>
-Safari Extension: https://safari-extensions.apple.com/details/?id=ws.freestyler.freestyler-SRV36C8E2C<br>
-Opera Extension: https://addons.opera.com/nb/extensions/details/freestyler/<br>
-Firefox Extension: https://freestyler.ws/extensions/2.3.4.3/freestyler-2.3.4.3-fx.xpi<br>
+<i>Safari</i> Extension: https://safari-extensions.apple.com/details/?id=ws.freestyler.freestyler-SRV36C8E2C<br>
+<i>Opera</i> Extension: https://addons.opera.com/nb/extensions/details/freestyler/<br>
+<i>Firefox</i> Extension: https://freestyler.ws/extensions/2.3.4.3/freestyler-2.3.4.3-fx.xpi<br>
 
 ### Manual:<br>
 (options are not supported)
 Style: https://github.com/vplameniraket/Duolingo-Difficulty-Improver<br>
-Consider finding a suitable extension on your browser's addons webpage.
+<b>Consider finding a suitable extension on your browser's addons webpage.</b>
 
 ## Project description
 
