@@ -2,7 +2,7 @@
 
 ## About this page
 
-This page on Github is created to give all Duolingo users a chance to install Duolingo Difficulty Improver manually. It concerns users who use browsers which do not support installation of userstyles via userstyles.org and thus <b>do not support options</b>.
+This page on Github is created to give all Duolingo users a chance to install Duolingo Difficulty Improver manually. It concerns users who use browsers which do not support installation of userstyles via userstyles.org or freestyler.ws and thus <b>do not support options</b>.
 
 Current links to userstyles and extensions for different browsers are:
 
