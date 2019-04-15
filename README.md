@@ -12,9 +12,9 @@ Extension: https://chrome.google.com/webstore/detail/stylish-custom-themes-for/f
 
 ### Safari, Opera, Firefox: (options are supported!)<br>
 Style: https://freestyler.ws/style/156241/duolingo-difficulty-improver<br>
-<i>Safari</i> Extension: https://safari-extensions.apple.com/details/?id=ws.freestyler.freestyler-SRV36C8E2C<br>
-<i>Opera</i> Extension: https://addons.opera.com/nb/extensions/details/freestyler/<br>
-<i>Firefox</i> Extension: https://freestyler.ws/extensions/2.3.4.3/freestyler-2.3.4.3-fx.xpi<br>
+<b><i>Safari</i></b> Extension: https://safari-extensions.apple.com/details/?id=ws.freestyler.freestyler-SRV36C8E2C<br>
+<b><i>Opera</i></b> Extension: https://addons.opera.com/nb/extensions/details/freestyler/<br>
+<b><i>Firefox</i></b> Extension: https://freestyler.ws/extensions/2.3.4.3/freestyler-2.3.4.3-fx.xpi<br>
 
 ### Manual:<br>
 (options are not supported)
